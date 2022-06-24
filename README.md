@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/hilalmleykeyuksel](https://www.kaggle.com/hilalmleykeyuksel)
 
-- 📝 I regularly write articles on [linkedin.com/in/hilal-müleyke-yüksel](linkedin.com/in/hilal-müleyke-yüksel)
-
 - 💬 Ask me about **Python,Data Science,Artificial Intelligence, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **hmuleykey@gmail.com**
@@ -16,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hilalmuleyke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hilalmuleyke" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hilal-m%c3%bcleyke-y%c3%bcksel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hilal-m%c3%bcleyke-y%c3%bcksel/" height="30" width="40" /></a>
 <a href="https://kaggle.com/hilalmleykeyuksel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hilalmleykeyuksel" height="30" width="40" /></a>
 </p>
 
